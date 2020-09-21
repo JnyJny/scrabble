@@ -1,0 +1,11 @@
+README.md
+setup.py
+scrabble/__init__.py
+scrabble/__main__.py
+scrabble/game.py
+scrabble.egg-info/PKG-INFO
+scrabble.egg-info/SOURCES.txt
+scrabble.egg-info/dependency_links.txt
+scrabble.egg-info/entry_points.txt
+scrabble.egg-info/requires.txt
+scrabble.egg-info/top_level.txt

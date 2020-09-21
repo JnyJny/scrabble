@@ -1,0 +1,11 @@
+Metadata-Version: 1.2
+Name: scrabble
+Version: 0.1.0
+Summary: Scrabble game
+Home-page: UNKNOWN
+Author: JnyJny
+Author-email: erik.oshaughnessy@gmail.com
+License: UNKNOWN
+Description: UNKNOWN
+Platform: UNKNOWN
+Requires-Python: >=3.8,<4.0

@@ -1,0 +1,3 @@
+[console_scripts]
+scrabble = scrabble.__main__:cli
+
